@@ -46,6 +46,7 @@ foreach($transDir as $langName){
 
   fputs($output,"<h1>$local / $localEN</h1>\n");
   fputs($outputED,"<h1>$local / $localEN</h1>\n");
+  fputs($output,"<p><a href=\"../../index.html\">Return to main page</a></p>");
 
   //eventually we need code that will run for all src files and to all output languages
   $files = glob('../src/*.{txt}', GLOB_BRACE);
@@ -88,7 +89,8 @@ foreach($transDir as $langName){
     fclose($inputEN);
     fclose($inputTL);
   }
-
+  fputs($output,"<p><a href=\"../../index.html\">Return to main page</a></p>");
+  
   //Foot//
   fputs($output,"<div id=\"footer\" align=\"center\"><p>Created by <a href=\"http://www.bath.ac.uk/study/mash/\" target=\"_blank\">MASH</a>, <a href=\"http://www.bath.ac.uk/\" target=\"_blank\">University of Bath</a>. Work partially funded by the <a href=\"http://www.sigma-network.ac.uk/\" target=\"_blank\">sigma Network.</a> Translations are provided in the hope they are useful; we make no guarantees as to the accuracy or completeness of the translations. To get in touch use the project e-mail address: <a href=\"mailto:mash-lang@bath.ac.uk\">mash-lang@bath.ac.uk</a>.</p><p><a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\"><img alt=\"Creative Commons Licence\" style=\"border-width:0\" src=\"http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png\" /></a><br />This work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.</p></div>");
 
