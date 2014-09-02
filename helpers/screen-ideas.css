@@ -1,0 +1,30 @@
+/* General body and link */
+* {margin:0;padding:0}
+a {text-decoration:none;color:#00f}
+a img, fieldset {border:0}
+body {background:#fff;margin:0 2%;font:80%/1.2 verdana, arial, helvetica, sans-serif;color:#000;height:100%}
+a:link {color:#039;background:transparent}
+a:visited {color:#36c;background:transparent}
+a:hover {color:#00f;text-decoration:underline}
+
+/* Central content */
+#content {margin:0 200px;padding:1.3em 1em 1em 1em;font-family:verdana, arial, helvetica, sans-serif;color:#333;}
+html>/**/body #content {padding-top:3em}
+#content h2 {color:#039;margin:0.5em 0;font-size:1.4em}
+#content h3 {color:#039;margin:0.5em 0;font-size:1.3em}
+#content h4 {color:#36c;margin:0.5em 0;font-size:1.2em}
+#content h5 {color:#333;margin:0.5em 0;font-size:1.1em}
+#content h6 {color:#333;margin:0.5em 0 0 0;font-size:1.05em}
+#content p {padding:0.8em 0 0.6em 0;line-height:1.15em}
+#content ul {padding:0.1em 0;margin-left:1.5em;}
+#content ol {padding:0.2em 0;margin-left:1.8em}
+#content ul li {padding:0.2em 0}
+
+/* Content tables */
+#content table {width:98%;border-collapse:collapse}
+html>body #content table {width:100%}
+#content table tr td {border:solid 1px #ccc;padding:2px}
+#content table tr th {border:solid 1px #ccc;padding:2px;background:#eaeff9}
+#content table.noborder tr td {border:none}
+#content table.noborder tr th {border:none}
+.printonly {display: none;}

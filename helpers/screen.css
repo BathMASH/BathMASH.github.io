@@ -1,0 +1,15 @@
+body {background:#fff; font: arial, verdana, helvetica, sans-serif}
+table {width:75%; table-layout:fixed}
+table tr td {border:solid 1px #ccc; padding:10px}
+h1 {color:#039;}
+h2 {color:#36c;}
+/* Sortable tables */
+table.sortable thead {
+    background-color:#eee;
+    color:#666666;
+    font-weight: bold;
+    cursor: default;
+}
+table.sortable th:not(.sorttable_sorted):not(.sorttable_sorted_reverse):not(.sorttable_nosort):after { 
+    content: " \25B4\25BE" 
+}

@@ -1,0 +1,12 @@
+#!/bin/bash
+
+#java -jar crowdin-cli.jar upload sources
+#java -jar crowdin-cli.jar upload translations
+#zanata-cli -B pull -s src -t trans
+java -jar crowdin-cli.jar download
+cd php
+php build.php
+cd ..
+#git commit --all -m "automated update from Zanata"
+git commit --all -m "automated update from Crowdin"
+git push
