@@ -1,0 +1,44 @@
+Acute Angle
+Adjacent
+Arc
+Area
+Axis
+Circumference
+Co-ordinate
+Degree (angle)
+Diameter
+Ellipse
+Equilateral
+Geometry
+Hyperbola
+Hypotenuse
+Intersect
+Intersection (curves)
+Isosceles
+Length
+Measure
+Metric
+Obtuse Angle
+Orthogonal
+Parabola
+Parallel
+Parallelogram
+Perimeter
+Perpendicular
+Plane
+Quadrilateral
+Radius
+Rectangle
+Reflection
+Reflex Angle
+Right Angle
+Rotate
+Rotation
+Secant
+Similar
+Surface
+Tangent
+Transformation
+Translate
+Translation
+Trigonometry

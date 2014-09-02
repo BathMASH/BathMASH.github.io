@@ -1,0 +1,8 @@
+﻿Algebra
+Algebraic
+Field
+Group
+Ring
+Subgroup
+Transcendental
+
