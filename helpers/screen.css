@@ -3,6 +3,7 @@ table {width:75%; table-layout:fixed}
 table tr td {border:solid 1px #ccc; padding:10px}
 h1 {color:#039;}
 h2 {color:#36c;}
+h3 {color:#36c;}
 /* Sortable tables */
 table.sortable thead {
     background-color:#eee;
