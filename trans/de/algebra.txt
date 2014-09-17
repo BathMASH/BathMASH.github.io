@@ -1,8 +1,8 @@
-Algebra
+Algebra (translated)
 algebraisch
 Körper
 Gruppe
-Ring
+Ring (translated)
 Untergruppe
 transzendent
 
