@@ -1,8 +1,8 @@
-﻿Algebra
-Algebraic
-Field
-Group
+Algebra
+algebraisch
+Körper
+Gruppe
 Ring
-Subgroup
-Transcendental
+Untergruppe
+transzendent
 
