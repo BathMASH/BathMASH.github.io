@@ -1,36 +1,36 @@
-Absolute Value
-Add
+Betrag
+addieren
 Amplitude
 Approximation
-Arbitrary
-Area
-Arithmetic
-Associative
-Assumption
-Average
+beliebig
+Fläche
+arithmetisch
+assoziativ
+Annahme
+Durchschnitt
 Axiom
-Bijective
-Binomial (coefficient)
-Bound
-Closed (set)
-Coefficient
-Column
-Commutative
-Complement
-Complex Number
+bijektiv
+Binomialkoeffizient
+gebunden
+abgeschlossen (Menge)
+Koeffizient
+Spalte
+kommutativ
+Komplement
+komplexe Zahl
 Composite Number
 Composition
 Condition
 Conditional
 Constant (noun)
-Contradiction
-Corollary
-Curve
+Widerspruch
+Korollar
+Kurve
 Damped
-Decimal
+Dezimalzahl
 Decreasing
 Definition
-Degree (polynomial)
+Grad
 Denominator
 Density
 Dependent
@@ -67,9 +67,9 @@ Imply
 Increasing
 Independent
 Induction
-Inequality
+Ungleichung
 Infinite
-Injective
+injektiv
 Inner Product
 Integer
 Interpolation
@@ -79,31 +79,31 @@ Inverse
 Invertible
 Iterate
 Lemma
-Length
-Limit
-Linear
-Local
-Logarithm
-Logic
+Länge
+Grenzwert
+linear
+lokal
+Logarithmus
+Logik
 Matrix
-Mean
-Measure
+Mittelwert
+Maß
 Median
 Mode
-Modulus
-Monotonic
-Multiply
+Betrag
+monoton
+multiplizieren
 Mutually Exclusive
-Natural Number
+Natürliche Zahl
 Necessary
-Negative
-nth Root
+negativ
+nte Wurzel
 Numerator
 Numerical
 Odd Number
-One-to-one
-Onto
-Open (set)
+injektiv
+surjektiv
+offen (Menge)
 Operation
 Operator
 Order
@@ -117,25 +117,25 @@ Plane
 Pointwise
 Polar
 Pole
-Polynomial
+Polynom
 Positive
 Power
-Prime Number
-Product
+Primzahl
+Produkt
 Projectile
-Proof
+Beweis
 Property
 Proposition
 Quotient
 Random
 Range
-Rational Number
-Real Number
+rationale Zahl
+reelle Zahl
 Reciprocal
-Recursive
+rekursiv
 Reflexive
 Remainder
-Root
+Wurzel
 Row
 Scalar
 Set
@@ -144,21 +144,21 @@ Simultaneous
 Solution
 Space
 Spherical
-Square Number
-Square Root
-Subset
-Subspace
+Quadratzahl
+Quadratwurzel
+Teilmenge
+Teilraum
 Substitution
 Subtract
-Sufficient
-Sum
-Surjective
-Symmetric
+suffizient
+Summe
+surjektiv
+symmetrisch
 Theorem
 Transformation
 Transitive
 Union
 Value
-Vector
+Vektor
 Velocity
-Volume (3D area)
+Volumen
