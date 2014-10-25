@@ -1,6 +1,6 @@
 Betrag
 addieren
-Amplitude
+Amplitude (translated)
 Approximation
 beliebig
 Fläche
@@ -8,7 +8,7 @@ arithmetisch
 assoziativ
 Annahme
 Durchschnitt
-Axiom
+Axiom (translated)
 bijektiv
 Binomialkoeffizient
 gebunden
@@ -29,8 +29,8 @@ Kurve
 Damped
 Dezimalzahl
 Decreasing
-Definition
-Grad
+Definition (translated)
+Grad (translated)
 Denominator
 Density
 Dependent
@@ -78,17 +78,17 @@ Interval
 Inverse
 Invertible
 Iterate
-Lemma
+Lemma (translated)
 Länge
 Grenzwert
-linear
+Linear (translated)
 lokal
 Logarithmus
 Logik
-Matrix
+Matrix (translated)
 Mittelwert
 Maß
-Median
+Median (translated)
 Mode
 Betrag
 monoton
