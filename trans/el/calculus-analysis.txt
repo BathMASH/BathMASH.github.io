@@ -1,27 +1,27 @@
-Analysis
-Calculus
-Chain Rule
-Compact
-Continuous
-Converge
-Convergent
-Curl
-Derivative
-Differentiable
-Differential
-Differentiate
-Discontinuity
-Diverge
-Divergence
-Divergent
-Gradient
-Integrable
-Integral
-Integrate
-Normal (vector)
-Plane
-Sequence
-Series
-Surface
-Tangent
-Uniform (convergence)
+Ανάλυση
+Απειροστικός λογισμός
+Κανόνας αλυσίδας
+Συμπαγής
+Συνεχής
+Συγκλίνω
+Συγκλίνων/συγκλίνουσα
+Στροβιλισμός
+Παράγωγος
+Παραγωγίσιμος
+Διαφορικό
+Παραγωγίζω
+Ασυνέχεια
+Αποκλίνω
+Απόκλιση
+Αποκλίνων
+Κλίση (ευθείας)
+Ολοκληρώσιμος
+Ολοκλήρωμα
+Ολοκληρώνω
+Κανονικό (διάνυσμα)
+Επίπεδο
+Ακολουθία
+Σειρά
+Επιφάνεια
+Εφαπτομένη
+Ομοιόμορφη Σύγκλιση

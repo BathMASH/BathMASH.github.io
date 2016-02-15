@@ -1,164 +1,172 @@
-Absolute Value
-Add
-Amplitude
-Approximation
-Arbitrary
-Area
-Arithmetic
-Associative
-Assumption
-Average
-Axiom
-Bijective
-Binomial (coefficient)
-Bound
-Closed (set)
-Coefficient
-Column
-Commutative
-Complement
-Complex Number
-Composite Number
-Composition
-Condition
-Conditional
-Constant (noun)
-Contradiction
-Corollary
-Curve
-Damped
-Decimal
-Decreasing
-Definition
-Degree (polynomial)
-Denominator
-Density
-Dependent
-Dimension
-Discrete
-Distributive
-Divide
-Domain
-Equal
-Equation
-Equivalence Relation
-Equivalent
-Error
-Even Number
-Exponent
-Exponential
-Extrapolation
-Factor
-Factorial
-Finite
-Formula
-Fraction
-Frequency
-Function
-Global
-Graph (function)
-Graph (network)
-Harmonic
-Homogeneous
-Identity
-Image
-Imaginary Number
-Imply
-Increasing
-Independent
-Induction
-Inequality
-Infinite
-Injective
-Inner Product
-Integer
-Interpolation
-Intersection (sets)
-Interval
-Inverse
-Invertible
-Iterate
-Lemma
-Length
-Limit
-Linear
-Local
-Logarithm
-Logic
-Matrix
-Mean
-Measure
-Median
-Mode
-Modulus
-Monotonic
-Multiply
-Mutually Exclusive
-Natural Number
-Necessary
-Negative
-nth Root
-Numerator
-Numerical
-Odd Number
-One-to-one
-Onto
-Open (set)
-Operation
-Operator
-Order
-Oscillation
-Parameter
-Parametric
-Partial
-Partition (noun)
-Period
-Plane
-Pointwise
-Polar
-Pole
-Polynomial
-Positive
-Power
-Prime Number
-Product
-Projectile
-Proof
-Property
-Proposition
-Quotient
-Random
-Range
-Rational Number
-Real Number
-Reciprocal
-Recursive
-Reflexive
-Remainder
-Root
-Row
-Scalar
-Set
-Sign (+/-)
-Simultaneous
-Solution
-Space
-Spherical
-Square Number
-Square Root
-Subset
-Subspace
-Substitution
-Subtract
-Sufficient
-Sum
-Surjective
-Symmetric
-Theorem
-Transformation
-Transitive
-Union
-Value
-Vector
-Velocity
-Volume (3D area)
+Απόλυτη τιμή
+Προσθέτω
+Πλάτος κύματος
+Προσέγγιση
+Τυχαίος
+Εμβαδόν
+Αριθμητικός
+Προσεταιριστικός
+Υπόθεση
+Αριθμητικός μέσος
+Αξίωμα
+Αμφιμονοσήμαντη αντιστοιχία (συναρτήσεις που είναι ένα-προς-ένα και επί)
+Διωνυμικός συντελεστής
+Όριο (πχ ολοκληρώματος)
+Φραγμένο (πχ σύνολο)
+Κλειστό σύνολο
+Συντελεστής
+Στήλη
+Μεταθετικός
+Συμπλήρωμα
+Μιγαδικός αριθμός
+Σύνθετος αριθμός
+Σύνθεση
+Όρος
+Συνθήκη
+Προϋπόθεση
+Δεσμευμένος (πχ δεσμευμένη πιθανότητα)
+Σταθερά
+Αντίφαση (π.χ. proof by contradiction = εις άτοπον απαγωγή)
+Συμπέρασμα
+Καμπύλη
+Απόσβεση
+Δεκαδικός
+Μείωση
+Ελλάτωση
+Ορισμός
+Βαθμός (πολυωνύμου)
+Παρονομαστής
+Πυκνότητα
+Εξαρτημένος
+Διάσταση
+Διακριτός
+Επιμεριστικός
+Διαιρώ
+Πεδίο ορισμού
+Ίσος
+Εξίσωση
+Σχέση ισοδυναμίας
+Ισοδύναμος
+Λάθος
+Σφάλμα
+Άρτιος αριθμός
+Εκθέτης
+Εκθετικός
+Παρέκταση
+Παράγοντας
+Παραγοντικός
+Πεπερασμένος
+Μαθηματικός τύπος
+Κλάσμα
+Συχνότητα
+Συνάρτηση
+Ολικό (μέγιστο, ελάχιστο)
+Γράφημα (συνάρτησης)
+Γράφος
+Αρμονικός
+Ομογενής
+Ταυτότητα
+Πεδίο τιμών (εικόνα)
+Φανταστικος αριθμός
+Συνεπάγω
+Αύξων
+Αύξουσα
+Ανεξάρτητος
+Επαγωγή
+Ανισότητα
+Άπειρος
+Ένα προς ένα (συνάρτηση)
+Εσωτερικό γινόμενο
+Ακέραιος
+Παρεμβολή
+Τομή (συνόλων)
+Διάστημα
+Αντίστροφος
+Αντιστρέψιμος
+Επαναλαμβάνω
+Λήμμα
+Μήκος
+Όριο
+Γραμμικός
+Τοπικός
+Λογάριθμος
+Λογική
+Πίνακας
+Μέσος όρος
+Μέτρο (πχ θεωρία μέτρου)
+Διάμεσος
+Πιθανότερη τιμή
+Απόλυτη τιμή
+Μονότονος
+Πολλαπλασιάζω
+Ξένος (πχ ξένα ενδεχόμενα)
+Φυσικός αριθμός
+Απαραίτητος
+Αρνητικός
+Νιοστή ρίζα
+Αριθμητής
+Αριθμητικός
+Περιττός αριθμός
+Ένα προς ένα
+Επί (συνάρτηση)
+Ανοιχτό (σύνολο)
+Πράξη
+Τελεστής
+Τάξη ή βαθμός αν αναφέρεται σε πολυώνυμο
+Ταλάντωση
+Παράμετρος
+Παραμετρικός
+Μερικός
+Υποδιαίρεση/Διαμερισμός
+Περίοδος
+Επίπεδο
+Σημειακός
+Πολικός
+Πόλος
+Πολυωνυμικός
+Θετικός
+Δύναμη
+Πρώτος αριθμός
+Γινόμενο
+Βαλλιστικός
+Απόδειξη
+Ιδιότητα
+Πρόταση
+Πηλίκο
+Τυχαίο
+Εύρος, φάσμα
+Ρητός αριθμός
+Πραγματικός αριθμός
+Αντίστροφος
+Αναδρομικός
+Ανακλαστική
+Υπόλοιπο
+Ρίζα
+Γραμμή (κυρίως σε πίνακα)
+Βαθμωτό
+Σύνολο
+Πρόσημο
+Ταυτόχρονος
+Σύγχρονος
+Λύση
+Χώρος (πχ διανυσματικός χώρος)
+Σφαιρικός
+Τετράγωνος αριθμός
+Τετραγωνική ρίζα
+Υποσύνολο
+Υπόχωρος
+Αντικατάσταση
+Αφαιρώ
+Επαρκής
+Άθροισμα
+Επί (συνάρτηση)
+Συμμετρικός
+Θεώρημα
+Μετατροπή
+Μετασχηματισμός
+Μεταβατικός
+Ένωση
+Αξία
+Διάνυσμα
+Ταχύτητα
+Όγκος

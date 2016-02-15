@@ -1,44 +1,45 @@
-Acute Angle
-Adjacent
-Arc
-Area
-Axis
-Circumference
-Co-ordinate
-Degree (angle)
-Diameter
-Ellipse
-Equilateral
-Geometry
-Hyperbola
-Hypotenuse
-Intersect
-Intersection (curves)
-Isosceles
-Length
-Measure
-Metric
-Obtuse Angle
-Orthogonal
-Parabola
-Parallel
-Parallelogram
-Perimeter
-Perpendicular
-Plane
-Quadrilateral
-Radius
-Rectangle
-Reflection
-Reflex Angle
-Right Angle
-Rotate
-Rotation
-Secant
-Similar
-Surface
-Tangent
-Transformation
-Translate
-Translation
-Trigonometry
+Οξεία γωνία
+Προσκείμενος
+Τόξο
+Επιφάνεια
+Εμβαδόν
+Άξονας
+Περιφέρεια (κύκλου)
+Συντεταγμένη
+Μοίρα
+Διάμετρος
+Έλλειψη
+Ισόπλευρος
+Γεωμετρία
+Υπερβολή
+Υποτείνουσα
+Τέμνω
+Τομή
+Ισοσκελές
+Μήκος
+Μέτρο (πχ θεωρία μέτρου)
+Μετρικός
+Αμβλεία γωνία
+Κάθετος
+Παραβολή
+Παράλληλος
+Παραλληλόγραμμο
+Περίμετρος
+Κάθετος (επίσης orthogonal)
+Επίπεδο
+Τετράπλευρο
+Ακτίνα
+Ορθογώνιο παραλληλόγραμμο
+Ανάκλαση
+Ευθεία γωνία
+Ορθή γωνία
+Περιστρέφω
+Περιστροφή
+Τέμνουσα
+Όμοιος
+Επιφάνεια
+Εφαπτομένη
+Μετασχηματισμός
+Μεταφράζω
+Μετάφραση
+Τριγωνομετρία

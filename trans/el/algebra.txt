@@ -1,8 +1,8 @@
-﻿Algebra
-Algebraic
-Field
-Group
-Ring
-Subgroup
-Transcendental
+‘Αλγεβρα
+Αλγεβρικός
+Σώμα
+Ομάδα
+Δακτύλιος
+Υποομάδα
+Υπερβατικός
 
