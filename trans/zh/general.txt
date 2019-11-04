@@ -1,164 +1,164 @@
-Absolute Value
-Add
-Amplitude
-Approximation
-Arbitrary
-Area
+绝对值
+加
+振幅
+近似值
+任意的
+面积
 Arithmetic
 Associative
-Assumption
-Average
-Axiom
+假设
+平均值
+公理
 Bijective
-Binomial (coefficient)
-Bound
-Closed (set)
-Coefficient
-Column
+二项式(系数)
+界
+闭(集)
+系数
+列
 Commutative
 Complement
-Complex Number
-Composite Number
+复数
+合数
 Composition
-Condition
+条件
 Conditional
-Constant (noun)
-Contradiction
-Corollary
-Curve
+常数
+矛盾
+推论
+曲线
 Damped
-Decimal
+十进制
 Decreasing
-Definition
-Degree (polynomial)
-Denominator
-Density
+定义
+多项式的次数
+分母
+密度/浓度
 Dependent
 Dimension
-Discrete
+离散的
 Distributive
 Divide
 Domain
-Equal
+等于
 Equation
-Equivalence Relation
+等价关系
 Equivalent
-Error
-Even Number
-Exponent
+误差
+偶数
+指数
 Exponential
-Extrapolation
-Factor
-Factorial
-Finite
-Formula
-Fraction
-Frequency
-Function
+外推法
+因子
+阶乘
+有限的
+公式
+分数
+频率
+函数
 Global
-Graph (function)
-Graph (network)
-Harmonic
-Homogeneous
+(函数) 图像
+(图论) 图
+调和的
+齐次的
 Identity
-Image
-Imaginary Number
-Imply
+像(集合论)
+虚数
+推出
 Increasing
-Independent
-Induction
-Inequality
+无关的/独立的
+归纳法
+不等式
 Infinite
 Injective
-Inner Product
-Integer
-Interpolation
-Intersection (sets)
-Interval
+内积
+整数
+插值
+交(集合)
+区间
 Inverse
 Invertible
-Iterate
-Lemma
-Length
-Limit
-Linear
+迭代
+引理/辅助定理
+长度
+极限
+线性的
 Local
-Logarithm
-Logic
-Matrix
-Mean
+对数
+逻辑
+矩阵
+平均值
 Measure
-Median
-Mode
+中位数
+众数
 Modulus
-Monotonic
-Multiply
+单调的
+乘
 Mutually Exclusive
-Natural Number
-Necessary
+自然数
+必要的
 Negative
 nth Root
-Numerator
-Numerical
-Odd Number
-One-to-one
-Onto
+分子
+数值的
+奇数
+一一对应
+满(射)的
 Open (set)
-Operation
-Operator
-Order
-Oscillation
-Parameter
-Parametric
+运算
+算子
+级/次/度
+振荡
+参数
+参变量的
 Partial
-Partition (noun)
-Period
-Plane
+划分(集合)
+周期
+平面
 Pointwise
 Polar
-Pole
-Polynomial
+极点
+多项式
 Positive
 Power
-Prime Number
+素数
 Product
 Projectile
-Proof
+证明
 Property
 Proposition
-Quotient
-Random
-Range
-Rational Number
-Real Number
-Reciprocal
+商
+随机
+极差/全域/值域
+有理数
+实数
+反商/倒数
 Recursive
 Reflexive
-Remainder
-Root
-Row
+余数
+根
+行
 Scalar
-Set
-Sign (+/-)
+集合
+符号
 Simultaneous
-Solution
-Space
-Spherical
-Square Number
-Square Root
-Subset
-Subspace
-Substitution
-Subtract
-Sufficient
-Sum
+解
+空间
+球形的
+平方数
+平方根
+子集
+子空间
+代换
+减去
+充分的
+和
 Surjective
 Symmetric
-Theorem
-Transformation
+定理
+变换
 Transitive
-Union
-Value
-Vector
-Velocity
+并集
+值
+向量
+速度
 Volume (3D area)

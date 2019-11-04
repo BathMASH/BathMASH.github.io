@@ -1,8 +1,8 @@
-﻿Algebra
+代数
 Algebraic
-Field
-Group
-Ring
-Subgroup
-Transcendental
+域
+群
+环
+子群
+超越的
 

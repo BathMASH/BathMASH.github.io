@@ -1,27 +1,27 @@
 Analysis
-Calculus
-Chain Rule
+微积分
+链式法则
 Compact
-Continuous
-Converge
-Convergent
-Curl
-Derivative
-Differentiable
-Differential
-Differentiate
-Discontinuity
-Diverge
-Divergence
-Divergent
-Gradient
-Integrable
-Integral
-Integrate
+连续的
+收敛
+收敛的
+旋度
+导数
+可微分的
+微分
+求... 的微分
+间断点
+发散
+散度
+发散的
+梯度
+可积分的
+积分
+求... 的积分
 Normal (vector)
 Plane
-Sequence
-Series
-Surface
+序列
+级数
+曲面
 Tangent
-Uniform (convergence)
+一致(收敛)
